@@ -16,3 +16,7 @@ A big thank you to Paul Baldowski for his support and permission to use artwork 
 Many thanks to @neilbenson and @jwmuk for their playtesting and UI improvement suggestions.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F6T5AXX)
+
+
+
+************* Traducción al castellano del módulo de Dee *******************
