@@ -1,20 +1,20 @@
-{
-  "name": "Unperson",
+﻿{
+  "name": "Paria",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Dweller of the streets, alleyways, lanes, and back roads, surviving hardship through a wealth of wit and wile</p>",
+    "description": "Habitante de calles, callejones, caminos y veredas, que sobrevive a la miseria gracias a abundante ingenio y astucia.",
     "abilities": [
       {
-        "name": "Burglary",
+        "name": "Robo",
         "type": "ability"
       },
       {
-        "name": "Passage and Path",
+        "name": "Pasos y caminos",
         "type": "ability"
       },
       {
-        "name": "Street Smarts",
+        "name": "Astucia callejera",
         "type": "ability"
       }
     ]

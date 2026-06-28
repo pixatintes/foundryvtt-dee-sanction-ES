@@ -1,8 +1,8 @@
-{
-  "name": "Pamphlet",
+﻿{
+  "name": "Panfleto",
   "type": "item",
   "system": {
-    "description": "<p>A Concise local travel pamphlet.</p>",
+    "description": "Un conciso panfleto local de viajes.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

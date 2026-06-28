@@ -1,8 +1,8 @@
-{
-  "name": "Benight",
+﻿{
+  "name": "Oscurecer",
   "type": "favour",
   "system": {
-    "description": "<p>Darken, Engulf, Overcast.</p>"
+    "description": "Ennegrecer, envolver, cubrir de nubes."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

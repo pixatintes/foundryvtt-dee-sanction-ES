@@ -1,9 +1,9 @@
-{
-  "name": "Choleric",
+﻿{
+  "name": "Colérico",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "eager for conflict, with a simmering hostility toward everyone and everything",
+    "description": "Deseoso de conflicto, con una hostilidad latente hacia todos y todo.",
     "resource": "int",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "UIRRkn2WqA6gloZT",
-      "name": "Choleric",
+      "name": "Colérico",
       "description": "",
       "origin": null,
       "statuses": [],

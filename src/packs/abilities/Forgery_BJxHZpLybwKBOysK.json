@@ -1,8 +1,8 @@
-{
-  "name": "Forgery",
+﻿{
+  "name": "Falsificación",
   "type": "ability",
   "system": {
-    "description": "<p>Forgery.</p>"
+    "description": "<p>Falsificación.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

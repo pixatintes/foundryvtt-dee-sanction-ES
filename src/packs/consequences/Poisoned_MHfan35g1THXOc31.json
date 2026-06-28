@@ -1,9 +1,9 @@
-{
-  "name": "Poisoned",
+﻿{
+  "name": "Envenenado",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "Poisoned. Requires an apothecary to remove.",
+    "description": "Envenenado. Requiere un boticario para eliminar esta consecuencia.",
     "resource": "phy",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "bPdBZPGk6Dr8gmUg",
-      "name": "Poisoned",
+      "name": "Envenenado",
       "description": "",
       "origin": null,
       "statuses": [],

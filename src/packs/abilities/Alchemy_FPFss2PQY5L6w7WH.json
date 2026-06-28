@@ -1,8 +1,8 @@
-{
-  "name": "Alchemy",
+﻿{
+  "name": "Alquimia",
   "type": "ability",
   "system": {
-    "description": "<p>Alchemy - Study of the composition of waters, movement, growth, embodying and disembodying to transform base matter.</p>"
+    "description": "<p>Alquimia: estudio de la composición de las aguas, el movimiento, el crecimiento, la corporeización y la incorporeización para transformar la materia vulgar.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

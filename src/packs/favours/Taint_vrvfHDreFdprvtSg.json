@@ -1,8 +1,8 @@
-{
-  "name": "Taint",
+﻿{
+  "name": "Tacha",
   "type": "favour",
   "system": {
-    "description": "<p>Cloud, Toxify, Discolour.</p>"
+    "description": "Enturbiar, intoxicar, decolorar."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

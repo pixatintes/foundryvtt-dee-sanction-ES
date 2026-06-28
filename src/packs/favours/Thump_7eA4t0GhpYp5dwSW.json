@@ -1,8 +1,8 @@
-{
-  "name": "Thump",
+﻿{
+  "name": "Golpe sordo",
   "type": "favour",
   "system": {
-    "description": "<p>Shock, Bruise, Slap, Pulp.</p>"
+    "description": "Sacudir, magullar, abofetear, machacar."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

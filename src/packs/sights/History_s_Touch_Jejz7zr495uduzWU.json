@@ -1,8 +1,8 @@
-{
-  "name": "History's Touch",
+﻿{
+  "name": "Toque de la historia",
   "type": "favour",
   "system": {
-    "description": "<h2>Token Reading</h2><p>History's Touch.</p>"
+    "description": "\n\n### Lectura de objetos\n  \nToque de la historia.\n"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

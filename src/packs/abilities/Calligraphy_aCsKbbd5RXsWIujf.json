@@ -1,8 +1,8 @@
-{
-  "name": "Calligraphy",
+﻿{
+  "name": "Caligrafía",
   "type": "ability",
   "system": {
-    "description": "<p>Calligraphy.</p>"
+    "description": "<p>Caligrafía.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,8 +1,8 @@
-{
-  "name": "Papercraft",
+﻿{
+  "name": "Papelería",
   "type": "ability",
   "system": {
-    "description": "<p>Papercraft.</p>"
+    "description": "<p>Papelería.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

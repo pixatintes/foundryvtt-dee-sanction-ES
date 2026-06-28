@@ -1,9 +1,9 @@
-{
-  "name": "Canker-sorrowed",
+﻿{
+  "name": "Apenado",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "afflicted with a sense of grief, struggling to see worth in self.",
+    "description": "Afligido por una sensación de pena, con dificultad para ver valor en sí mismo.",
     "resource": "int",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "bdk2oHr9qrsag9ez",
-      "name": "Canker-sorrowed",
+      "name": "Apenado",
       "description": "",
       "origin": null,
       "statuses": [],

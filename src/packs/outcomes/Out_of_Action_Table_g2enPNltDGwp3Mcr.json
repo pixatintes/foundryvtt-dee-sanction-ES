@@ -1,11 +1,11 @@
-{
-  "name": "Out of Action Table",
+﻿{
+  "name": "Tabla de fuera de combate",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Rolled when an agent has zero hits but has been stabilised.",
+  "description": "Se tira cuando un Agente tiene cero Heridas pero ha sido estabilizado.",
   "results": [
     {
       "type": "text",
-      "text": "Stunned: Numb, Raving.",
+      "text": "Aturdido: entumecido, delirante.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "text",
-      "text": "Senseless: Dazed, Fat-headed.",
+      "text": "Sin sentido: atontado, torpe.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "text": "Fragile: Shaking, Exhausted.",
+      "text": "Frágil: tembloroso, exhausto.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -50,7 +50,7 @@
     },
     {
       "type": "text",
-      "text": "Overcome: Mute, Humiliated.",
+      "text": "Superado: mudo, humillado.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "text",
-      "text": "Wasted: Unguarded, Fearful.",
+      "text": "Consumido: desprotegido, temeroso.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "text": "Blood-soaked: Gory, Oozing.",
+      "text": "Empapado en sangre: sangriento, supurante.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [

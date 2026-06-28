@@ -1,8 +1,8 @@
-{
-  "name": "Visions",
+﻿{
+  "name": "Visiones",
   "type": "favour",
   "system": {
-    "description": "<h2>Scrying</h2><p>Visions.</p>"
+    "description": "\n\n### Adivinación\n  \nVisiones.\n"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

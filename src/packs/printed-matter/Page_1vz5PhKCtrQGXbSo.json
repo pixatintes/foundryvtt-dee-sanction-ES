@@ -1,8 +1,8 @@
-{
-  "name": "Page",
+﻿{
+  "name": "Página",
   "type": "item",
   "system": {
-    "description": "<p>A page torn from an almanac.</p>",
+    "description": "Una página arrancada de un almanaque.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

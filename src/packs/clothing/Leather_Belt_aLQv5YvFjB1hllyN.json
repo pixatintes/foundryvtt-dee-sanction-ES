@@ -1,8 +1,8 @@
-{
-  "name": "Leather Belt",
+﻿{
+  "name": "Cinturón de cuero",
   "type": "item",
   "system": {
-    "description": "<p>A leather belt.</p>",
+    "description": "Un cinturón de cuero.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

@@ -1,8 +1,8 @@
-{
-  "name": "Gasp",
+﻿{
+  "name": "Jadeo",
   "type": "favour",
   "system": {
-    "description": "<p>Desperate, Sudden, Sharp Exhalation.</p>"
+    "description": "Desesperado, súbito, exhalación aguda."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

@@ -1,8 +1,8 @@
-{
-  "name": "Cudgel",
+﻿{
+  "name": "Garrote",
   "type": "item",
   "system": {
-    "description": "<p>A sturdy wooden cudgel.</p>",
+    "description": "Un garrote de madera resistente.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

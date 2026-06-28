@@ -1,9 +1,9 @@
-{
-  "name": "Baffled",
+﻿{
+  "name": "Desconcertado",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "Dazed and confused.",
+    "description": "Aturdido y confuso.",
     "resource": "int",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "LeZvpcU06jEn9QGN",
-      "name": "Baffled",
+      "name": "Desconcertado",
       "description": "",
       "origin": null,
       "statuses": [],

@@ -1,20 +1,20 @@
-{
-  "name": "Scrivener",
+﻿{
+  "name": "Escribano",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Clerk and note-taker, responsible for keeping record of the passage of events and notable deeds for all who can pay for the privilege of paperwork</p>",
+    "description": "Oficial y tomador de notas, responsable de registrar el curso de los acontecimientos y hazañas notables para cualquiera que pueda pagar el privilegio del papeleo.",
     "abilities": [
       {
-        "name": "Papercraft",
+        "name": "Papelería",
         "type": "ability"
       },
       {
-        "name": "Calligraphy",
+        "name": "Caligrafía",
         "type": "ability"
       },
       {
-        "name": "Bureaucracy",
+        "name": "Burocracia",
         "type": "ability"
       }
     ]

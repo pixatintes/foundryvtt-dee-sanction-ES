@@ -1,9 +1,9 @@
-{
-  "name": "Haunted",
+﻿{
+  "name": "Atormentado",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "Haunted",
+    "description": "Atormentado.",
     "resource": "sup",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "g48Wz4pNf0xltyAx",
-      "name": "Haunted",
+      "name": "Atormentado",
       "description": "",
       "origin": null,
       "statuses": [],

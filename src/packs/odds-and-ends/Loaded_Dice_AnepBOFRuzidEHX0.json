@@ -1,8 +1,8 @@
-{
-  "name": "Loaded Dice",
+﻿{
+  "name": "Dados trucados",
   "type": "item",
   "system": {
-    "description": "<p>A pair of loaded dice.</p>",
+    "description": "Un par de dados trucados.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

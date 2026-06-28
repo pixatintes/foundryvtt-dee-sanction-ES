@@ -1,8 +1,8 @@
-{
-  "name": "Detect Lies",
+﻿{
+  "name": "Detectar mentiras",
   "type": "ability",
   "system": {
-    "description": "<p>Detect Lies - you have an eye for a lie and signals that accompany them</p>"
+    "description": "<p>Detectar mentiras: tienes buen ojo para las mentiras y las señales que las acompañan.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

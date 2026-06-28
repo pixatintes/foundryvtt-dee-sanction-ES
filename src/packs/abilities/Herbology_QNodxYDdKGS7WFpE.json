@@ -1,8 +1,8 @@
-{
-  "name": "Herbology",
+﻿{
+  "name": "Herbología",
   "type": "ability",
   "system": {
-    "description": "<p>Herbology.</p>"
+    "description": "<p>Herbología.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

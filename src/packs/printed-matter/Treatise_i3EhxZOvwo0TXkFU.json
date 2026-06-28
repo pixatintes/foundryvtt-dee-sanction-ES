@@ -1,8 +1,8 @@
-{
-  "name": "Treatise",
+﻿{
+  "name": "Tratado",
   "type": "item",
   "system": {
-    "description": "<p>Loose leaf from an edifying treatise.</p>",
+    "description": "Una hoja suelta de un tratado edificante.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

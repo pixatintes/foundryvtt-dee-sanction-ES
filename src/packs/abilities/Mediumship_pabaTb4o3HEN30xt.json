@@ -1,8 +1,8 @@
-{
-  "name": "Mediumship",
+﻿{
+  "name": "Mediumnidad",
   "type": "ability",
   "system": {
-    "description": "<p>Mediumship - you are sensitive to the presence of the lingering dead and might, on occasion, serve as a conduit for them.</p>"
+    "description": "<p>Mediumnidad: eres sensible a la presencia de los muertos persistentes y, en ocasiones, puedes servirles de conducto.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

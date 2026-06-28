@@ -1,8 +1,8 @@
-{
-  "name": "Scorch",
+﻿{
+  "name": "Chamuscadura",
   "type": "favour",
   "system": {
-    "description": "<p>Burn, Sear, Char.</p>"
+    "description": "Quemar, abrasar, carbonizar."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

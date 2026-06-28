@@ -1,8 +1,8 @@
-{
-  "name": "Mechanics",
+﻿{
+  "name": "Mecánica",
   "type": "ability",
   "system": {
-    "description": "<p>Mechanics - understand the basics of modern machinery; axles to clockwork, locks to firing mechanisms.</p>"
+    "description": "<p>Mecánica: entiendes los fundamentos de la maquinaria moderna, desde ejes hasta mecanismos de relojería, cerraduras y mecanismos de disparo.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

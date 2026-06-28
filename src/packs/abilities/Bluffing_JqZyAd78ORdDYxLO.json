@@ -1,8 +1,8 @@
-{
-  "name": "Bluffing",
+﻿{
+  "name": "Farolear",
   "type": "ability",
   "system": {
-    "description": "<p>Bluffing - the capacity to mislead or divert the judgement of others.</p>"
+    "description": "<p>Farolear: capacidad para engañar o desviar el juicio de los demás.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

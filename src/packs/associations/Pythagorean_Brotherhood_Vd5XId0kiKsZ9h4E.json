@@ -1,16 +1,16 @@
-{
-  "name": "Pythagorean Brotherhood",
+﻿{
+  "name": "Hermandad Pitagórica",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Believers that understanding lies in the intersection ‘tween number and form</p>",
+    "description": "Creyentes en que la comprensión se halla en la intersección entre número y forma.",
     "abilities": [
       {
-        "name": "Numerology",
+        "name": "Numerología",
         "type": "ability"
       },
       {
-        "name": "Geometry",
+        "name": "Geometría",
         "type": "ability"
       },
       {

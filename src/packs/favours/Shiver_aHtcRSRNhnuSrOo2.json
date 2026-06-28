@@ -1,8 +1,8 @@
-{
-  "name": "Shiver",
+﻿{
+  "name": "Escalofrío",
   "type": "favour",
   "system": {
-    "description": "<p>Shudder, Shimmy, Uneasy, Shrivel.</p>"
+    "description": "Estremecer, sacudir, inquietar, marchitar."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

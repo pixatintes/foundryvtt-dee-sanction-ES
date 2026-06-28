@@ -1,8 +1,8 @@
-{
-  "name": "Sealed Letter",
+﻿{
+  "name": "Carta sellada",
   "type": "item",
   "system": {
-    "description": "<p>A sealed letter.</p>",
+    "description": "Una carta sellada.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

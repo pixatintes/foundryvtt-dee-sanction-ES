@@ -1,8 +1,8 @@
-{
-  "name": "Choke",
+﻿{
+  "name": "Ahogar",
   "type": "favour",
   "system": {
-    "description": "<p>Gasp, Clog, Stifle, Gag.</p>"
+    "description": "Jadear, obstruir, sofocar, amordazar."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

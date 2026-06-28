@@ -1,9 +1,9 @@
-{
-  "name": "Sickly",
+﻿{
+  "name": "Enfermizo",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "trembling with an unshakeable chill; pale and drawn.",
+    "description": "Tiembla con un frío imposible de sacudir; pálido y demacrado.",
     "resource": "phy",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "kP6mPDRxoHN7xMRp",
-      "name": "Sickly",
+      "name": "Enfermizo",
       "description": "",
       "origin": null,
       "statuses": [],

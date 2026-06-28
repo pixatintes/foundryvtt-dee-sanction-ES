@@ -1,8 +1,8 @@
-{
-  "name": "Dirt",
+﻿{
+  "name": "Suciedad",
   "type": "favour",
   "system": {
-    "description": "<p>Gather, Sink, Pile, Molehill, Pothole.</p>"
+    "description": "Reunir, hundir, apilar, formar montículos o baches."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

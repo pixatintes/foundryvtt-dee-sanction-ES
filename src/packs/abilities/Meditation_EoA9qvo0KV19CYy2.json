@@ -1,8 +1,8 @@
-{
-  "name": "Meditation",
+﻿{
+  "name": "Meditación",
   "type": "ability",
   "system": {
-    "description": "<p>Meditation.</p>"
+    "description": "<p>Meditación.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

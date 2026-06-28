@@ -1,17 +1,17 @@
-{
-  "name": "Steganographia",
+﻿{
+  "name": "Esteganografía",
   "type": "focus",
   "system": {
-    "description": "<p>Cryptographic guide hidden within a text on symbolic and ancient languages used for discourse with spirits and demons</p>",
+    "description": "Guía criptográfica oculta dentro de un texto sobre lenguas simbólicas y antiguas, empleada para comunicarse con espíritus y demonios.",
     "abilities": [
       {
-        "name": "Signs",
+        "name": "Signos",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "NmmbmT0WiIbOH6wh"
       },
       {
-        "name": "Ciphers",
+        "name": "Cifrado",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "UupmrsDZBe59Q0jN"

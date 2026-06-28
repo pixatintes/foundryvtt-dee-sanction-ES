@@ -1,8 +1,8 @@
-{
-  "name": "Tallow Candle",
+﻿{
+  "name": "Vela de sebo",
   "type": "item",
   "system": {
-    "description": "<p>A tallow candle wrapped in canvas.</p>",
+    "description": "Una vela de sebo envuelta en lona.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

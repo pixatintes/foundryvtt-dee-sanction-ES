@@ -1,17 +1,17 @@
-{
-  "name": "The Cheirokmeta",
+﻿{
+  "name": "Los Cheirokmeta",
   "type": "focus",
   "system": {
-    "description": "<p>A volume in which Zosimos of Panopolis describes the means to work with and augment base matter.</p>",
+    "description": "Volumen en el que Zósimo de Panópolis describe los medios para trabajar y aumentar la materia vulgar.",
     "abilities": [
       {
-        "name": "Alchemy",
+        "name": "Alquimia",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "FPFss2PQY5L6w7WH"
       },
       {
-        "name": "Bluffing",
+        "name": "Farolear",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "JqZyAd78ORdDYxLO"

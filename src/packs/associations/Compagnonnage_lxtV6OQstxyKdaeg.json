@@ -1,20 +1,20 @@
-{
+﻿{
   "name": "Compagnonnage",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Frustrated upstart craftfolk intent on bringing about a new order to unseat the Guilds and wider society</p>",
+    "description": "Artesanos advenedizos frustrados, empeñados en instaurar un nuevo orden que desplace a los gremios y a la sociedad en general.",
     "abilities": [
       {
-        "name": "Hand Crafting",
+        "name": "Artesanía",
         "type": "ability"
       },
       {
-        "name": "Devices",
+        "name": "Dispositivos",
         "type": "ability"
       },
       {
-        "name": "Bargaining",
+        "name": "Regateo",
         "type": "ability"
       }
     ]

@@ -1,8 +1,8 @@
-{
-  "name": "Cutlass",
+﻿{
+  "name": "Alfanje",
   "type": "item",
   "system": {
-    "description": "<p>A well-notched cutlass.</p>",
+    "description": "Un alfanje bien mellado.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

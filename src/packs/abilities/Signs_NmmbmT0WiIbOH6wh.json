@@ -1,8 +1,8 @@
-{
-  "name": "Signs",
+﻿{
+  "name": "Signos",
   "type": "ability",
   "system": {
-    "description": "<p>Signs - You know the common marks and symbols left by others as tip-off or guidance.</p>"
+    "description": "<p>Signos: conoces las marcas y símbolos comunes que otros dejan como aviso o guía.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

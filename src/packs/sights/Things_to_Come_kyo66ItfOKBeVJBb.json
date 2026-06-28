@@ -1,8 +1,8 @@
-{
-  "name": "Things to Come",
+﻿{
+  "name": "Cosas por venir",
   "type": "favour",
   "system": {
-    "description": "<h2>Prophecy</h2><p>Things to Come.</p>"
+    "description": "\n\n### Profecía\n  \nCosas por venir.\n"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

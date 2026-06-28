@@ -1,20 +1,20 @@
-{
-  "name": "Herbalist",
+﻿{
+  "name": "Herborista",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Practitioners in traditional treatments and curatives garnered and prepared from both cultivated gardens or the open commons and woodlands</p>",
+    "description": "Practicante de tratamientos y remedios tradicionales recogidos y preparados tanto en jardines cultivados como en comunales y bosques.",
     "abilities": [
       {
-        "name": "Comfort",
+        "name": "Confortar",
         "type": "ability"
       },
       {
-        "name": "Herbalism",
+        "name": "Herboristería",
         "type": "ability"
       },
       {
-        "name": "Brewing",
+        "name": "Elaboración de cerveza",
         "type": "ability"
       }
     ]

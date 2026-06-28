@@ -1,20 +1,20 @@
-{
-  "name": "Waterman",
+﻿{
+  "name": "Barquero",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Lewd-mouthed punters upon freshwater courses able to chart a safe course through accreted silt, discarded rubbish, and narrow channels</p>",
+    "description": "Botero de lengua procaz en cursos de agua dulce, capaz de trazar una ruta segura entre limo acumulado, basura desechada y canales estrechos.",
     "abilities": [
       {
-        "name": "Gossip",
+        "name": "Chisme",
         "type": "ability"
       },
       {
-        "name": "Navigation",
+        "name": "Navegación",
         "type": "ability"
       },
       {
-        "name": "Boating",
+        "name": "Botes y remos",
         "type": "ability"
       }
     ]

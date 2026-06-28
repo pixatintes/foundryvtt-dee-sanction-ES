@@ -1,9 +1,9 @@
-{
-  "name": "Buckler",
+﻿{
+  "name": "Broquel",
   "type": "item",
   "img": "systems/dee/assets/default/icons/kit.png",
   "system": {
-    "description": "A small buckler shield.",
+    "description": "Un pequeño escudo broquel.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false,
@@ -30,7 +30,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "name": "Buckler",
+      "name": "Broquel",
       "transfer": true,
       "_id": "BZ20CdlVg4t4K1pK",
       "description": "",

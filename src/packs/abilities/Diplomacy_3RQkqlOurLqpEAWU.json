@@ -1,8 +1,8 @@
-{
-  "name": "Diplomacy",
+﻿{
+  "name": "Diplomacia",
   "type": "ability",
   "system": {
-    "description": "<p>Diplomacy.</p>"
+    "description": "<p>Diplomacia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,8 +1,8 @@
-{
-  "name": "Good Boots",
+﻿{
+  "name": "Buenas botas",
   "type": "item",
   "system": {
-    "description": "<p>A good pair of boots.</p>",
+    "description": "Un buen par de botas.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

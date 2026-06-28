@@ -1,8 +1,8 @@
-{
-  "name": "Bracelet",
+﻿{
+  "name": "Pulsera",
   "type": "item",
   "system": {
-    "description": "<p>A bracelet.</p>",
+    "description": "Una pulsera.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

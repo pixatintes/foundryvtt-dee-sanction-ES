@@ -1,8 +1,8 @@
-{
-  "name": "Sickle",
+﻿{
+  "name": "Hoz",
   "type": "item",
   "system": {
-    "description": "<p>A small but sharp sickle.</p>",
+    "description": "Una hoz pequeña pero afilada.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

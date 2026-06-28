@@ -1,8 +1,8 @@
-{
-  "name": "Farming",
+﻿{
+  "name": "Granja",
   "type": "ability",
   "system": {
-    "description": "<p>Farming.</p>"
+    "description": "<p>Granja.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

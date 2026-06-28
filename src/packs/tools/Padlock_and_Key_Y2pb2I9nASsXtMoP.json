@@ -1,8 +1,8 @@
-{
-  "name": "Padlock and Key",
+﻿{
+  "name": "Candado y llave",
   "type": "item",
   "system": {
-    "description": "<p>A padlock and key.</p>",
+    "description": "Un candado y su llave.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

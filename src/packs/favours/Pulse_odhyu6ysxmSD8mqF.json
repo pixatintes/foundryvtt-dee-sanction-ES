@@ -1,8 +1,8 @@
-{
-  "name": "Pulse",
+﻿{
+  "name": "Pulso",
   "type": "favour",
   "system": {
-    "description": "<p>Distub, Vibrate, Ripple.</p>"
+    "description": "Perturbar, vibrar, ondular."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

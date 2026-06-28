@@ -1,8 +1,8 @@
-{
-  "name": "Bargaining",
+﻿{
+  "name": "Regateo",
   "type": "ability",
   "system": {
-    "description": "<p>Bargaining.</p>"
+    "description": "<p>Regateo.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

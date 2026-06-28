@@ -1,8 +1,8 @@
-{
-  "name": "Clap",
+﻿{
+  "name": "Palmada",
   "type": "favour",
   "system": {
-    "description": "<p>Roar, Rumble, Crash, Distract, Flinch.</p>"
+    "description": "Rugir, retumbar, estallar, distraer, sobresaltar."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

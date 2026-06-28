@@ -1,8 +1,8 @@
-{
-  "name": "Breath",
+﻿{
+  "name": "Respiración",
   "type": "favour",
   "system": {
-    "description": "<p>Measured, Steady, Controlled, Held.</p>"
+    "description": "Medida, firme, controlada, contenida."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

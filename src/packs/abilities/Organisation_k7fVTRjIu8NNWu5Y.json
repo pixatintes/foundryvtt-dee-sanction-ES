@@ -1,8 +1,8 @@
-{
-  "name": "Organisation",
+﻿{
+  "name": "Organización",
   "type": "ability",
   "system": {
-    "description": "<p>Organisation.</p>"
+    "description": "<p>Organización.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,8 +1,8 @@
-{
-  "name": "Street Smarts",
+﻿{
+  "name": "Astucia callejera",
   "type": "ability",
   "system": {
-    "description": "<p>Street Smarts.</p>"
+    "description": "<p>Astucia callejera.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

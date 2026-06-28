@@ -1,8 +1,8 @@
-{
-  "name": "Decay",
+﻿{
+  "name": "Decaer",
   "type": "favour",
   "system": {
-    "description": "<p>Necrosis, Numbness, To Dust, Liquify.</p>"
+    "description": "Necrosis, entumecimiento, reducir a polvo, licuar."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

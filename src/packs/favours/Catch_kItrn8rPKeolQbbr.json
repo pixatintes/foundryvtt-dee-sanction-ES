@@ -1,8 +1,8 @@
-{
-  "name": "Catch",
+﻿{
+  "name": "Prender",
   "type": "favour",
   "system": {
-    "description": "<p>Inflame, Kindle, Smoke.</p>"
+    "description": "Inflamar, encender, humear."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

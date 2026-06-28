@@ -1,11 +1,11 @@
-{
-  "name": "Humour:Phlegm",
+﻿{
+  "name": "Humor: flema",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Ongoing effect when an agent falters on an unravelling die.",
+  "description": "Efecto persistente cuando un Agente flaquea en un dado de Desentrañar.",
   "results": [
     {
       "type": "document",
-      "text": "Fat-witted",
+      "text": "Torpe de entendimiento",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "document",
-      "text": "Canker-sorrowed",
+      "text": "Apenado",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -37,7 +37,7 @@
     },
     {
       "type": "document",
-      "text": "Unheedy",
+      "text": "Imprudente",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [

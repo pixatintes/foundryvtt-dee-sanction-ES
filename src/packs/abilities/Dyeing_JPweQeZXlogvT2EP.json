@@ -1,8 +1,8 @@
-{
-  "name": "Dyeing",
+﻿{
+  "name": "Tintura",
   "type": "ability",
   "system": {
-    "description": "<p>Dyeing.</p>"
+    "description": "<p>Tintura.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

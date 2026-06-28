@@ -1,8 +1,8 @@
-{
-  "name": "Foreign Coin",
+﻿{
+  "name": "Moneda extranjera",
   "type": "item",
   "system": {
-    "description": "<p>A foreign coin.</p>",
+    "description": "Una moneda extranjera.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

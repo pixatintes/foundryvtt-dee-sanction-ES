@@ -1,9 +1,9 @@
-{
-  "name": "Despiteful",
+﻿{
+  "name": "Rencoroso",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "unforgiving and driven to seek redress for any slight or wrong",
+    "description": "Implacable e impulsado a buscar reparación por cualquier desaire o agravio.",
     "resource": "int",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "DGx3YlhR0U5v6rfb",
-      "name": "Despiteful",
+      "name": "Rencoroso",
       "description": "",
       "origin": null,
       "statuses": [],

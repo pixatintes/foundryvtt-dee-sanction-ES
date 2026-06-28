@@ -1,8 +1,8 @@
-{
-  "name": "Eloquence",
+﻿{
+  "name": "Elocuencia",
   "type": "ability",
   "system": {
-    "description": "<p>Eloquence.</p>"
+    "description": "<p>Elocuencia.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

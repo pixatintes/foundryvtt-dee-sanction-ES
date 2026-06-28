@@ -1,16 +1,16 @@
-{
+﻿{
   "name": "Doctor",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Assistant to one of the few chartered physicians who claim recognition for their depth of medical knowledge</p>",
+    "description": "Ayudante de uno de los pocos médicos colegiados que reclaman reconocimiento por la profundidad de sus conocimientos médicos.",
     "abilities": [
       {
-        "name": "Reassurance",
+        "name": "Tranquilizar",
         "type": "ability"
       },
       {
-        "name": "Anatomy",
+        "name": "Anatomía",
         "type": "ability"
       },
       {

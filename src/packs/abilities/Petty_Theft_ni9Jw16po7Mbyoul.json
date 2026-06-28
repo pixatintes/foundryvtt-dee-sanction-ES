@@ -1,8 +1,8 @@
-{
-  "name": "Petty Theft",
+﻿{
+  "name": "Hurto",
   "type": "ability",
   "system": {
-    "description": "<p>Petty Theft.</p>"
+    "description": "<p>Hurto.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

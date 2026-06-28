@@ -1,9 +1,9 @@
-{
-  "name": "Jack of Plate",
+﻿{
+  "name": "Jubón de placas",
   "type": "item",
   "img": "systems/dee/assets/default/icons/kit.png",
   "system": {
-    "description": "A jacket with small iron plates sewn into the lining.",
+    "description": "Un jubón con pequeñas placas de hierro cosidas en el forro.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false,
@@ -30,7 +30,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "name": "Jack of Plate",
+      "name": "Jubón de placas",
       "transfer": true,
       "_id": "f26zYQDIkghy9RSn",
       "description": "",

@@ -1,9 +1,9 @@
-{
-  "name": "Broken bone",
+﻿{
+  "name": "Hueso roto",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "Broken bone. Requires a doctor to remove.",
+    "description": "Hueso roto. Requiere un médico para eliminar esta consecuencia.",
     "resource": "phy",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "tkKyEmIi7wOSerV2",
-      "name": "Broken bone",
+      "name": "Hueso roto",
       "description": "",
       "origin": null,
       "statuses": [],

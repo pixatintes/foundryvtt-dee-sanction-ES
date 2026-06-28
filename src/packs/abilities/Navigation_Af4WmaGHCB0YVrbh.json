@@ -1,8 +1,8 @@
-{
-  "name": "Navigation",
+﻿{
+  "name": "Navegación",
   "type": "ability",
   "system": {
-    "description": "<p>Navigation.</p>"
+    "description": "<p>Navegación.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

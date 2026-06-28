@@ -1,8 +1,8 @@
-{
-  "name": "Shortsword",
+﻿{
+  "name": "Espada corta",
   "type": "item",
   "system": {
-    "description": "<p>A highland dirk.</p>",
+    "description": "Una daga escocesa de las Tierras Altas.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

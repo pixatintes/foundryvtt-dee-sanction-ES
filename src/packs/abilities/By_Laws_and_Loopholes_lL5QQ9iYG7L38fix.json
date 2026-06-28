@@ -1,8 +1,8 @@
-{
-  "name": "By-Laws and Loopholes",
+﻿{
+  "name": "Reglamentos y vacíos legales",
   "type": "ability",
   "system": {
-    "description": "<p>By-Laws and Loopholes.</p>"
+    "description": "<p>Reglamentos y vacíos legales.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,8 +1,8 @@
-{
-  "name": "Blacksmithery",
+﻿{
+  "name": "Herrería",
   "type": "ability",
   "system": {
-    "description": "<p>Blacksmithery.</p>"
+    "description": "<p>Herrería.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

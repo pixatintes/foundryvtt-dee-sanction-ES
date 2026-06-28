@@ -1,8 +1,8 @@
-{
-  "name": "Begging",
+﻿{
+  "name": "Suplicar",
   "type": "ability",
   "system": {
-    "description": "<p>Begging.</p>"
+    "description": "<p>Suplicar.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

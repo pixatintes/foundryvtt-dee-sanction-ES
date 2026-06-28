@@ -1,8 +1,8 @@
-{
-  "name": "Wooden Stake",
+﻿{
+  "name": "Estaca de madera",
   "type": "item",
   "system": {
-    "description": "<p>A stake pared from green oak.</p>",
+    "description": "Una estaca tallada de roble verde.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

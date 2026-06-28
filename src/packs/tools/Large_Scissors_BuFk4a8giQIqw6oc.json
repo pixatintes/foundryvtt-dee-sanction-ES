@@ -1,8 +1,8 @@
-{
-  "name": "Large Scissors",
+﻿{
+  "name": "Tijeras grandes",
   "type": "item",
   "system": {
-    "description": "<p>A pair of large scissors.</p>",
+    "description": "Un par de tijeras grandes.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

@@ -1,8 +1,8 @@
-{
-  "name": "Fancy Hat",
+﻿{
+  "name": "Sombrero vistoso",
   "type": "item",
   "system": {
-    "description": "<p>A very fine and impressive hat.</p>",
+    "description": "Un sombrero muy fino e impresionante.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

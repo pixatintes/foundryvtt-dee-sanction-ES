@@ -1,8 +1,8 @@
-{
-  "name": "Glass Eye",
+﻿{
+  "name": "Ojo de cristal",
   "type": "item",
   "system": {
-    "description": "<p>A glass eye.</p>",
+    "description": "Un ojo de cristal.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

@@ -1,20 +1,20 @@
-{
-  "name": "Courtier",
+﻿{
+  "name": "Cortesano",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Watchful and ever mindful attendant on the periphery of the gatherings of Court</p>",
+    "description": "Asistente vigilante y siempre atento en la periferia de las reuniones de la Corte.",
     "abilities": [
       {
-        "name": "Diplomacy",
+        "name": "Diplomacia",
         "type": "ability"
       },
       {
-        "name": "Dance",
+        "name": "Danza",
         "type": "ability"
       },
       {
-        "name": "Connoisseur",
+        "name": "Entendido",
         "type": "ability"
       }
     ]

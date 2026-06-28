@@ -1,20 +1,20 @@
-{
-  "name": "Clerk of the Temple",
+﻿{
+  "name": "Oficial del Templo",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Close associate of those who practice the law, serving with a willing ear, a strong stomach and a tenacious head lock</p>",
+    "description": "Colaborador cercano de quienes practican la ley, sirviendo con oído dispuesto, estómago fuerte y una tenaz llave de presa.",
     "abilities": [
       {
-        "name": "By-Laws and Loopholes",
+        "name": "Reglamentos y vacíos legales",
         "type": "ability"
       },
       {
-        "name": "Grappling",
+        "name": "Lucha libre",
         "type": "ability"
       },
       {
-        "name": "Carousing",
+        "name": "Parrandear",
         "type": "ability"
       }
     ]

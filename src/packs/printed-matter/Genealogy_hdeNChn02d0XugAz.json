@@ -1,8 +1,8 @@
-{
-  "name": "Genealogy",
+﻿{
+  "name": "Genealogía",
   "type": "item",
   "system": {
-    "description": "<p>A cryptic genealogy.</p>",
+    "description": "Una genealogía críptica.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

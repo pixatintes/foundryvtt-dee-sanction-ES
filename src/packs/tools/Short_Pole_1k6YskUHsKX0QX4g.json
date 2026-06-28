@@ -1,8 +1,8 @@
-{
-  "name": "Short Pole",
+﻿{
+  "name": "Pértiga corta",
   "type": "item",
   "system": {
-    "description": "<p>A short wooden pole.</p>",
+    "description": "Una pértiga corta de madera.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

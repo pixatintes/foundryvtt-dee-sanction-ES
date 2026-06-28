@@ -1,20 +1,20 @@
-{
+﻿{
   "name": "Orbus Tertius",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Committed to gathering evidence of a hidden realm of perception that will allow transcendence to Mastery</p>",
+    "description": "Comprometidos con reunir pruebas de un reino oculto de percepción que permitirá trascender hacia la Maestría.",
     "abilities": [
       {
-        "name": "Influence",
+        "name": "Influencia",
         "type": "ability"
       },
       {
-        "name": "Petty Theft",
+        "name": "Hurto",
         "type": "ability"
       },
       {
-        "name": "Herbology",
+        "name": "Herbología",
         "type": "ability"
       }
     ]

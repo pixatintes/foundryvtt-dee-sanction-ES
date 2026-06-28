@@ -1,8 +1,8 @@
-{
-  "name": "Grappling",
+﻿{
+  "name": "Lucha libre",
   "type": "ability",
   "system": {
-    "description": "<p>Grappling.</p>"
+    "description": "<p>Lucha libre.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

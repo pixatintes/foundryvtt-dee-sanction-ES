@@ -1,8 +1,8 @@
-{
-  "name": "Wooden Spoon",
+﻿{
+  "name": "Cuchara de madera",
   "type": "item",
   "system": {
-    "description": "<p>A small wooden spoon.</p>",
+    "description": "Una pequeña cuchara de madera.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

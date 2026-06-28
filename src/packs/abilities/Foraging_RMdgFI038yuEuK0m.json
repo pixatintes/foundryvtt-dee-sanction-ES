@@ -1,8 +1,8 @@
-{
-  "name": "Foraging",
+﻿{
+  "name": "Forrajeo",
   "type": "ability",
   "system": {
-    "description": "<p>Foraging.</p>"
+    "description": "<p>Forrajeo.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

@@ -1,8 +1,8 @@
-{
-  "name": "O Fickle Fortune",
+﻿{
+  "name": "Oh, fortuna voluble",
   "type": "script",
   "img": "icons/svg/coins.svg",
-  "command": "if (game.user.isGM) {\n  const rt1 = game.tables.find(t => t.name === 'Sight Outcomes');\n  const rt2 = game.tables.find(t => t.name === 'Sight Subject');\n  rt1.draw({rollMode:\"gmroll\"});\n  rt2.draw({rollMode:\"gmroll\"});\n}",
+  "command": "if (game.user.isGM) {\n  const rt1 = game.tables.find(t => t.name === 'Resultados de la Vista');\n  const rt2 = game.tables.find(t => t.name === 'Sujeto de la Vista');\n  rt1.draw({rollMode:\"gmroll\"});\n  rt2.draw({rollMode:\"gmroll\"});\n}",
   "folder": null,
   "scope": "global",
   "flags": {

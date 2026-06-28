@@ -1,20 +1,20 @@
-{
-  "name": "Society of Jesus",
+﻿{
+  "name": "Compañía de Jesús",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Jesuit infiltrators intent on overthrowing the Queen and the Church of England</p>",
+    "description": "Infiltrados jesuitas empeñados en derrocar a la Reina y a la Iglesia de Inglaterra.",
     "abilities": [
       {
-        "name": "Infiltration",
+        "name": "Infiltración",
         "type": "ability"
       },
       {
-        "name": "Anthropology",
+        "name": "Antropología",
         "type": "ability"
       },
       {
-        "name": "Dyeing",
+        "name": "Tintura",
         "type": "ability"
       }
     ]

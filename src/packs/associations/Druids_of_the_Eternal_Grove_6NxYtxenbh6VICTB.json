@@ -1,12 +1,12 @@
-{
-  "name": "Druids of the Eternal Grove",
+﻿{
+  "name": "Druidas de la Arboleda Eterna",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Ancient order seeking to revive the Druidic faith of Celtic legend and restore balance to the world</p>",
+    "description": "Antigua orden que busca revivir la fe druídica de la leyenda celta y restaurar el equilibrio del mundo.",
     "abilities": [
       {
-        "name": "Natural History",
+        "name": "Historia natural",
         "type": "ability"
       },
       {
@@ -14,7 +14,7 @@
         "type": "ability"
       },
       {
-        "name": "Quieten the Common Beast",
+        "name": "Acallar bestia común",
         "type": "ability"
       }
     ]

@@ -1,11 +1,11 @@
-{
-  "name": "Humour:Yellow Bile",
+﻿{
+  "name": "Humor: bilis amarilla",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Ongoing effect when an agent falters on an unravelling die.",
+  "description": "Efecto persistente cuando un Agente flaquea en un dado de Desentrañar.",
   "results": [
     {
       "type": "document",
-      "text": "Crabbed",
+      "text": "Irascible",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "document",
-      "text": "Choleric",
+      "text": "Colérico",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -37,7 +37,7 @@
     },
     {
       "type": "document",
-      "text": "Despiteful",
+      "text": "Rencoroso",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [

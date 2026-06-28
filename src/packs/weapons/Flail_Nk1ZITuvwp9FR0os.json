@@ -1,8 +1,8 @@
-{
-  "name": "Flail",
+﻿{
+  "name": "Mayal",
   "type": "item",
   "system": {
-    "description": "<p>A short-chained flail.</p>",
+    "description": "Un mayal de cadena corta.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

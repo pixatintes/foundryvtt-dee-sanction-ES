@@ -1,8 +1,8 @@
-{
-  "name": "Horse whip",
+﻿{
+  "name": "Fusta de caballo",
   "type": "item",
   "system": {
-    "description": "<p>Vicious in the right hands.</p>",
+    "description": "Cruel en las manos adecuadas.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

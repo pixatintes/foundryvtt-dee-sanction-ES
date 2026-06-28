@@ -1,9 +1,9 @@
-{
-  "name": "Afeared",
+﻿{
+  "name": "Asustado",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "prone to tip into panic and alarm at the smallest trigger.",
+    "description": "Propenso a caer en el pánico y la alarma ante el menor detonante.",
     "resource": "sup",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "2RbD86wYxyMgg0k3",
-      "name": "Afeared",
+      "name": "Asustado",
       "description": "",
       "origin": null,
       "statuses": [],

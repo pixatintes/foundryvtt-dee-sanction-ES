@@ -1,8 +1,8 @@
-{
-  "name": "Recipe",
+﻿{
+  "name": "Receta",
   "type": "item",
   "system": {
-    "description": "<p>A complicated recipe.</p>",
+    "description": "Una receta complicada.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

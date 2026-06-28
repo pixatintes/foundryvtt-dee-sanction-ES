@@ -1,8 +1,8 @@
-{
-  "name": "Gambling",
+﻿{
+  "name": "Juegos de azar",
   "type": "ability",
   "system": {
-    "description": "<p>Gambling.</p>"
+    "description": "<p>Juegos de azar.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

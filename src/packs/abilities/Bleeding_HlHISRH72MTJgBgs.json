@@ -1,8 +1,8 @@
-{
-  "name": "Bleeding",
+﻿{
+  "name": "Sangrías",
   "type": "ability",
   "system": {
-    "description": "<p>Bleeding.</p>"
+    "description": "<p>Sangrías.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

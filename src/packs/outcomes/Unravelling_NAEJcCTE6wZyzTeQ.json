@@ -1,11 +1,11 @@
-{
-  "name": "Unravelling",
+﻿{
+  "name": "Desentrañar",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Immediate effect when an agent falters on an unravelling die.",
+  "description": "Efecto inmediato cuando un Agente flaquea en un dado de Desentrañar.",
   "results": [
     {
       "type": "text",
-      "text": "Phlegm: Immediate response is dulled senses; acts of perception or problem-solving are ▼1 while in the presence of fear source.",
+      "text": "Flema: la respuesta inmediata embota los sentidos; los actos de percepción o resolución de problemas son ▼1 mientras esté presente la fuente del miedo.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "document",
-      "text": "Humour:Phlegm",
+      "text": "Humor: flema",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -36,7 +36,7 @@
     },
     {
       "type": "text",
-      "text": "Black Bile: Overwhelmed by extreme emotion. Eyes fill with tears, body wracked by sobbing. Take a Chance to complete any complex action in the presence of fear source.",
+      "text": "Bilis negra: abrumado por una emoción extrema. Los ojos se llenan de lágrimas y el cuerpo se sacude en sollozos. Tentar la suerte para completar cualquier acción compleja en presencia de la fuente del miedo.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -51,7 +51,7 @@
     },
     {
       "type": "document",
-      "text": "Humour:Black Bile",
+      "text": "Humor: bilis negra",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -67,7 +67,7 @@
     },
     {
       "type": "text",
-      "text": "Yellow Bile: Character fills with bitter rage toward all allies while in the presence of fear source. Take a Chance, act in a selfish way on a falter. Attitude persists in the presence of fear source.",
+      "text": "Bilis amarilla: el personaje se llena de amarga ira hacia todos sus aliados mientras esté presente la fuente del miedo. Tentar la suerte; si flaquea, actúa de modo egoísta. La actitud persiste en presencia de la fuente del miedo.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -82,7 +82,7 @@
     },
     {
       "type": "document",
-      "text": "Humour:Yellow Bile",
+      "text": "Humor: bilis amarilla",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -98,7 +98,7 @@
     },
     {
       "type": "text",
-      "text": "Blood: Inadvisably optimistic despite the horrors or the difficult situation faced. Blindly positive. Acts of violence or aggression are ▼1 while in the presence of fear source.",
+      "text": "Sangre: optimismo imprudente pese a los horrores o la situación difícil. Positividad ciega. Los actos de violencia o agresión son ▼1 mientras esté presente la fuente del miedo.",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [
@@ -113,7 +113,7 @@
     },
     {
       "type": "document",
-      "text": "Humour:Blood",
+      "text": "Humor: sangre",
       "img": "systems/dee/assets/default/icons/bones.png",
       "weight": 1,
       "range": [

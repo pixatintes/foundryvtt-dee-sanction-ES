@@ -1,8 +1,8 @@
-{
-  "name": "Corrode",
+﻿{
+  "name": "Corroer",
   "type": "favour",
   "system": {
-    "description": "<p>Discolour, Dulled, Brittle.</p>"
+    "description": "Decolorar, embotar, volver quebradizo."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

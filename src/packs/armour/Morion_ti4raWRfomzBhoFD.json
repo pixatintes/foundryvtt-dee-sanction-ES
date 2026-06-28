@@ -1,9 +1,9 @@
-{
-  "name": "Morion",
+﻿{
+  "name": "Morrión",
   "type": "item",
   "img": "systems/dee/assets/default/icons/kit.png",
   "system": {
-    "description": "An open helm, as favoured by the Spaniard.",
+    "description": "Un yelmo abierto, como el que prefieren los españoles.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false,
@@ -30,7 +30,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "name": "Morion",
+      "name": "Morrión",
       "transfer": true,
       "_id": "KPfYrFkhODd4kc1z",
       "description": "",

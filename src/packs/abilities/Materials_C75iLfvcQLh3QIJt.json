@@ -1,8 +1,8 @@
-{
-  "name": "Materials",
+﻿{
+  "name": "Materiales",
   "type": "ability",
   "system": {
-    "description": "<p>Craft-specific materials.</p>"
+    "description": "<p>Materiales específicos de la artesanía.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

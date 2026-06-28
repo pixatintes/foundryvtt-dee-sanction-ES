@@ -1,9 +1,9 @@
-{
-  "name": "Fat-witted",
+﻿{
+  "name": "Torpe de entendimiento",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "acts carelessly, lacking in reason when making decisions.",
+    "description": "Actúa con descuido, falto de razón al tomar decisiones.",
     "resource": "int",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "0jqfLL8j5GSBzpOo",
-      "name": "Fat-witted",
+      "name": "Torpe de entendimiento",
       "description": "",
       "origin": null,
       "statuses": [],

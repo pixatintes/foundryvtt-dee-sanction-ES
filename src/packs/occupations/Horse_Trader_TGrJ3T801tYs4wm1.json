@@ -1,20 +1,20 @@
-{
-  "name": "Horse Trader",
+﻿{
+  "name": "Tratante de caballos",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Trader in all manner of livestock; accused, by reputation, to play the game and perhaps pull the wool over unguarded eyes for a profit</p>",
+    "description": "Comerciante de todo tipo de ganado; con fama de jugar sucio y quizá engañar a los incautos para obtener beneficio.",
     "abilities": [
       {
-        "name": "Intimidation",
+        "name": "Intimidación",
         "type": "ability"
       },
       {
-        "name": "Probability",
+        "name": "Probabilidad",
         "type": "ability"
       },
       {
-        "name": "Animal Welfare",
+        "name": "Cuidado animal",
         "type": "ability"
       }
     ]

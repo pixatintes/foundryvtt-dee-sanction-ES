@@ -1,20 +1,20 @@
-{
-  "name": "Brothers of the Rose",
+﻿{
+  "name": "Hermanos de la Rosa",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Believers in esoteric truths of the past, seeking insight into nature, the universe and the spiritual realms</p>",
+    "description": "Creyentes en las verdades esotéricas del pasado, buscan comprender la naturaleza, el universo y los reinos espirituales.",
     "abilities": [
       {
-        "name": "Politics",
+        "name": "Política",
         "type": "ability"
       },
       {
-        "name": "Concealment",
+        "name": "Ocultación",
         "type": "ability"
       },
       {
-        "name": "Provocation",
+        "name": "Provocación",
         "type": "ability"
       }
     ]

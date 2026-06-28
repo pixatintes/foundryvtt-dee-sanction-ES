@@ -1,8 +1,8 @@
-{
-  "name": "Creak",
+﻿{
+  "name": "Crujir",
   "type": "favour",
   "system": {
-    "description": "<p>Scare, Distract, Worry, Detour.</p>"
+    "description": "Asustar, distraer, inquietar, desviar."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

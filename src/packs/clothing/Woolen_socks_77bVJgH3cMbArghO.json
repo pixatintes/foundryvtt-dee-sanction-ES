@@ -1,8 +1,8 @@
-{
-  "name": "Woolen socks",
+﻿{
+  "name": "Calcetines de lana",
   "type": "item",
   "system": {
-    "description": "<p>A pair of wool socks.</p>",
+    "description": "Un par de calcetines de lana.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

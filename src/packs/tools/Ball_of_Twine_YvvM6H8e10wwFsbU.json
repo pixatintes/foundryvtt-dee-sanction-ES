@@ -1,8 +1,8 @@
-{
-  "name": "Ball of Twine",
+﻿{
+  "name": "Ovillo de cordel",
   "type": "item",
   "system": {
-    "description": "<p>A ball of twine.</p>",
+    "description": "Un ovillo de cordel.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

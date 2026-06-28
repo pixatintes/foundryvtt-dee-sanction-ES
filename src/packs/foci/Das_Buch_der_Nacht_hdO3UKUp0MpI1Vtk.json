@@ -1,17 +1,17 @@
-{
+﻿{
   "name": "Das Buch der Nacht",
   "type": "focus",
   "system": {
-    "description": "<p>Scrawled diaries of a Grand Wizard who purports to have discovered the Truth at the heart of the Universe</p>",
+    "description": "Diarios garabateados de un Gran Mago que afirma haber descubierto la Verdad en el corazón del Universo.",
     "abilities": [
       {
-        "name": "Occult Lore",
+        "name": "Ocultismo",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "qkl2Amde8A9eyHsD"
       },
       {
-        "name": "Navigation",
+        "name": "Navegación",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "Af4WmaGHCB0YVrbh"

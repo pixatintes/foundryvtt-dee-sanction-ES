@@ -1,17 +1,17 @@
-{
-  "name": "Rites of Eleusis",
+﻿{
+  "name": "Ritos de Eleusis",
   "type": "focus",
   "system": {
-    "description": "<p>Cryptic insights into higher wisdom scattered in fragments across many minor works, the progression through which one might achieve transcendence</p>",
+    "description": "Conocimientos crípticos sobre una sabiduría superior, dispersos en fragmentos a lo largo de muchas obras menores, cuyo estudio podría permitir alcanzar la trascendencia.",
     "abilities": [
       {
-        "name": "Brewing",
+        "name": "Elaboración de cerveza",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "XtCyqrJxeb3joBcg"
       },
       {
-        "name": "Organisation",
+        "name": "Organización",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "k7fVTRjIu8NNWu5Y"

@@ -1,8 +1,8 @@
-{
-  "name": "Quote and Verse",
+﻿{
+  "name": "Citas y versos",
   "type": "ability",
   "system": {
-    "description": "<p>Quote and Verse.</p>"
+    "description": "<p>Citas y versos.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

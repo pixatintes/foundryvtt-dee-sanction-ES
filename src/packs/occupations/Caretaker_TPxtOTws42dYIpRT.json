@@ -1,20 +1,20 @@
-{
-  "name": "Caretaker",
+﻿{
+  "name": "Guardián",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Trusted keeper of buildings and wider properties, notably in the absence of the master of the house</p>",
+    "description": "Custodio de confianza de edificios y propiedades, especialmente en ausencia del señor de la casa.",
     "abilities": [
       {
-        "name": "Cooking",
+        "name": "Cocinar",
         "type": "ability"
       },
       {
-        "name": "Farming",
+        "name": "Granja",
         "type": "ability"
       },
       {
-        "name": "Hunting",
+        "name": "Caza",
         "type": "ability"
       }
     ]

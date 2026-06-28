@@ -1,11 +1,11 @@
-{
-  "name": "Angry Mob Resolution",
+﻿{
+  "name": "Resolución de turba enfurecida",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Angry Mob resolution table",
+  "description": "Tabla de resolución de una turba enfurecida",
   "results": [
     {
       "type": "text",
-      "text": "Run Away: 0 Hits; roll 1d12 minus harm sustained; if Falter, break and run",
+      "text": "Huir: 0 Heridas; tira 1d12 menos el daño sufrido; si flaquea, se desbandan y huyen",
       "weight": 1,
       "range": [
         1,
@@ -20,7 +20,7 @@
     },
     {
       "type": "text",
-      "text": "Confuse: 0 Hits; Dizzy",
+      "text": "Confundir: 0 Heridas; mareado",
       "weight": 1,
       "range": [
         3,
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "text": "Overrun: 1 Hit; Phy Ch., Falter: Fallen",
+      "text": "Arrollar: 1 Herida; Desafío Físico, si flaquea: caído",
       "weight": 1,
       "range": [
         5,
@@ -50,7 +50,7 @@
     },
     {
       "type": "text",
-      "text": "Rally: 1 Hit; recover 1 Hit (4 people)",
+      "text": "Reagruparse: 1 Herida; recupera 1 Herida (4 personas)",
       "weight": 1,
       "range": [
         7,

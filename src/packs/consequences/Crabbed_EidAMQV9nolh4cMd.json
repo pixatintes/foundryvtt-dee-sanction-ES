@@ -1,9 +1,9 @@
-{
-  "name": "Crabbed",
+﻿{
+  "name": "Irascible",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "prone to sharp changes in emotional state; short-tempered, sharp, and loud",
+    "description": "Propenso a cambios bruscos de estado emocional; malhumorado, cortante y ruidoso.",
     "resource": "int",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "SaVu6QiUBx1EONTJ",
-      "name": "Crabbed",
+      "name": "Irascible",
       "description": "",
       "origin": null,
       "statuses": [],

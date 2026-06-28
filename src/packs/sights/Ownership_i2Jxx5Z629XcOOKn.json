@@ -1,8 +1,8 @@
-{
-  "name": "Ownership",
+﻿{
+  "name": "Propiedad",
   "type": "favour",
   "system": {
-    "description": "<h2>Token Reading</h2><p>Ownership.</p>"
+    "description": "\n\n### Lectura de objetos\n  \nPropiedad.\n"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

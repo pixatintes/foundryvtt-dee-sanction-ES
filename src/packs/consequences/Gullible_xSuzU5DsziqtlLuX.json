@@ -1,9 +1,9 @@
-{
-  "name": "Gullible",
+﻿{
+  "name": "Crédulo",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "willing to believe or trust anyone without adequate evidence.",
+    "description": "Dispuesto a creer o confiar en cualquiera sin pruebas adecuadas.",
     "resource": "int",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "niadYnHTnMJnRnEt",
-      "name": "Gullible",
+      "name": "Crédulo",
       "description": "",
       "origin": null,
       "statuses": [],

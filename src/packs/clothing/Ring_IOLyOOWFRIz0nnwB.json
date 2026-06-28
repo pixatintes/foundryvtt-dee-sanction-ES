@@ -1,8 +1,8 @@
-{
-  "name": "Ring",
+﻿{
+  "name": "Anillo",
   "type": "item",
   "system": {
-    "description": "<p>A ring.</p>",
+    "description": "Un anillo.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

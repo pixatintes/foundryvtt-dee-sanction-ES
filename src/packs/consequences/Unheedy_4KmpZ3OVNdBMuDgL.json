@@ -1,9 +1,9 @@
-{
-  "name": "Unheedy",
+﻿{
+  "name": "Imprudente",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "lacking in caution and careless of the consequences from any decisions made.",
+    "description": "Falto de cautela y descuidado ante las consecuencias de cualquier decisión tomada.",
     "resource": "int",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "DdM0lWHSpG6YJbnj",
-      "name": "Unheedy",
+      "name": "Imprudente",
       "description": "",
       "origin": null,
       "statuses": [],

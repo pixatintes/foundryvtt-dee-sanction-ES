@@ -1,11 +1,11 @@
-{
-  "name": "NPC Reaction Table",
+﻿{
+  "name": "Tabla de reacción de PNJ",
   "img": "icons/svg/d20-grey.svg",
-  "description": "Rolled when an agent has zero hits but has been stabilised.",
+  "description": "Se tira cuando se necesita determinar la reacción de un PNJ.",
   "results": [
     {
       "type": "text",
-      "text": "Flee: shy, scared, circumspect.",
+      "text": "Huir: tímido, asustado, circunspecto.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "text",
-      "text": "Avoid: guilty, demoralised.",
+      "text": "Evitar: culpable, desmoralizado.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -35,7 +35,7 @@
     },
     {
       "type": "text",
-      "text": "Testing: wary, questioning.",
+      "text": "Poner a prueba: receloso, inquisitivo.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -50,7 +50,7 @@
     },
     {
       "type": "text",
-      "text": "Quid Pro Quo: trade, gossip.",
+      "text": "Quid pro quo: comercio, chismes.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "text",
-      "text": "Neutral: indifferent, undecided.",
+      "text": "Neutral: indiferente, indeciso.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -80,7 +80,7 @@
     },
     {
       "type": "text",
-      "text": "Convert: subvert, persuade.",
+      "text": "Convertir: subvertir, persuadir.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -95,7 +95,7 @@
     },
     {
       "type": "text",
-      "text": "Mischief: mislead, ill will.",
+      "text": "Travesura: engañar, mala voluntad.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -110,7 +110,7 @@
     },
     {
       "type": "text",
-      "text": "Rob: deprive, subdue, hinder.",
+      "text": "Robar: privar, someter, obstaculizar.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [
@@ -125,7 +125,7 @@
     },
     {
       "type": "text",
-      "text": "Hate: kill, destroy, sacrifice.",
+      "text": "Odio: matar, destruir, sacrificar.",
       "img": "systems/dee/assets/default/icons/access.png",
       "weight": 1,
       "range": [

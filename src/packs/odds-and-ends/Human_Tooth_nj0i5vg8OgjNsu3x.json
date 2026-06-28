@@ -1,8 +1,8 @@
-{
-  "name": "Human Tooth",
+﻿{
+  "name": "Diente humano",
   "type": "item",
   "system": {
-    "description": "<p>A human tooth.</p>",
+    "description": "Un diente humano.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

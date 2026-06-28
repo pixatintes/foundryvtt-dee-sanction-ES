@@ -1,8 +1,8 @@
-{
-  "name": "Summoned Advisor",
+﻿{
+  "name": "Consejero invocado",
   "type": "favour",
   "system": {
-    "description": "<h2>Scrying</h2><p>Summoned Advisor.</p>"
+    "description": "\n\n### Adivinación\n  \nConsejero invocado.\n"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

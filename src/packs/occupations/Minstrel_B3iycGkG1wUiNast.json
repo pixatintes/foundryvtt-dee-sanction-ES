@@ -1,20 +1,20 @@
-{
-  "name": "Minstrel",
+﻿{
+  "name": "Juglar",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Welcome provider of entertainment, in forms many and varied, in court and drinking holes alike</p>",
+    "description": "Bienvenido proveedor de entretenimiento, en muchas y variadas formas, tanto en la corte como en tabernas.",
     "abilities": [
       {
-        "name": "Song and Story",
+        "name": "Canciones y cuentos",
         "type": "ability"
       },
       {
-        "name": "Acrobatics",
+        "name": "Acrobacias",
         "type": "ability"
       },
       {
-        "name": "Tomfoolery",
+        "name": "Bufonadas",
         "type": "ability"
       }
     ]

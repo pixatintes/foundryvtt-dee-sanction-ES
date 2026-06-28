@@ -1,8 +1,8 @@
-{
-  "name": "Decorate",
+﻿{
+  "name": "Decoración",
   "type": "ability",
   "system": {
-    "description": "<p>Decorate.</p>"
+    "description": "<p>Decoración.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

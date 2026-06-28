@@ -1,14 +1,14 @@
-{
-  "name": "Sight Outcomes",
+﻿{
+  "name": "Resultados de la Vista",
   "img": "icons/svg/d20-grey.svg",
-  "description": "GM table for the outcome of a Sight Proophecy",
+  "description": "Tabla del DJ para el resultado de una profecía de la Vista",
   "formula": "((1d4 - 1) * 10) + 1d10",
   "replacement": true,
   "displayRoll": true,
   "results": [
     {
       "type": "text",
-      "text": "Permission/ Blockage",
+      "text": "Permiso/Bloqueo",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -23,7 +23,7 @@
     },
     {
       "type": "text",
-      "text": "Unity/Tension",
+      "text": "Unidad/Tensión",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -38,7 +38,7 @@
     },
     {
       "type": "text",
-      "text": "Friendship/Isolation",
+      "text": "Amistad/Aislamiento",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -53,7 +53,7 @@
     },
     {
       "type": "text",
-      "text": "Awareness/ Disconnection",
+      "text": "Conciencia/Desconexión",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -68,7 +68,7 @@
     },
     {
       "type": "text",
-      "text": "Acceptance/Loss",
+      "text": "Aceptación/Pérdida",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -83,7 +83,7 @@
     },
     {
       "type": "text",
-      "text": "Family/Independence",
+      "text": "Familia/Independencia",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -98,7 +98,7 @@
     },
     {
       "type": "text",
-      "text": "Choices/Confusion",
+      "text": "Elecciones/Confusión",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -113,7 +113,7 @@
     },
     {
       "type": "text",
-      "text": "Eclipse/Avoid",
+      "text": "Eclipse/Evitación",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -128,7 +128,7 @@
     },
     {
       "type": "text",
-      "text": "Satisfaction/ Displeasure",
+      "text": "Satisfacción/Disgusto",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -143,7 +143,7 @@
     },
     {
       "type": "text",
-      "text": "Fulfilment/ Frustration",
+      "text": "Plenitud/Frustración",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -158,7 +158,7 @@
     },
     {
       "type": "text",
-      "text": "Clarity/Chaos",
+      "text": "Claridad/Caos",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -173,7 +173,7 @@
     },
     {
       "type": "text",
-      "text": "Decisiveness/ Confusion",
+      "text": "Determinación/Confusión",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -188,7 +188,7 @@
     },
     {
       "type": "text",
-      "text": "Foregiveness/ Suffering",
+      "text": "Perdón/Sufrimiento",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -203,7 +203,7 @@
     },
     {
       "type": "text",
-      "text": "Rest/Exhaustion",
+      "text": "Descanso/Agotamiento",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -218,7 +218,7 @@
     },
     {
       "type": "text",
-      "text": "Ambition/ Resentment",
+      "text": "Ambición/Resentimiento",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -233,7 +233,7 @@
     },
     {
       "type": "text",
-      "text": "Transition/ Hesitation",
+      "text": "Transición/Vacilación",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -248,7 +248,7 @@
     },
     {
       "type": "text",
-      "text": "Honesty/Deception",
+      "text": "Honestidad/Engaño",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -263,7 +263,7 @@
     },
     {
       "type": "text",
-      "text": "Freedom/Capture",
+      "text": "Libertad/Captura",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -278,7 +278,7 @@
     },
     {
       "type": "text",
-      "text": "Hope/Despair",
+      "text": "Esperanza/Desesperación",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -293,7 +293,7 @@
     },
     {
       "type": "text",
-      "text": "Escape/Inevitability",
+      "text": "Escape/Inevitabilidad",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -308,7 +308,7 @@
     },
     {
       "type": "text",
-      "text": "Opportunity/Forgo",
+      "text": "Oportunidad/Renuncia",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -323,7 +323,7 @@
     },
     {
       "type": "text",
-      "text": "Coping/Overwhelm",
+      "text": "Sobrellevar/Abrumar",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -338,7 +338,7 @@
     },
     {
       "type": "text",
-      "text": "Teamwork/Discord",
+      "text": "Trabajo en equipo/Discordia",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -353,7 +353,7 @@
     },
     {
       "type": "text",
-      "text": "Frugality/ Recklessness",
+      "text": "Frugalidad/Imprudencia",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -368,7 +368,7 @@
     },
     {
       "type": "text",
-      "text": "Security/Poverty",
+      "text": "Seguridad/Pobreza",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -383,7 +383,7 @@
     },
     {
       "type": "text",
-      "text": "Charity/Extortion",
+      "text": "Caridad/Extorsión",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -398,7 +398,7 @@
     },
     {
       "type": "text",
-      "text": "Perseverance/ Discouragement",
+      "text": "Perseverancia/Desánimo",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -413,7 +413,7 @@
     },
     {
       "type": "text",
-      "text": "Inspiration/ Despondency",
+      "text": "Inspiración/Abatimiento",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -428,7 +428,7 @@
     },
     {
       "type": "text",
-      "text": "Reward/Punishment",
+      "text": "Recompensa/Castigo",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -443,7 +443,7 @@
     },
     {
       "type": "text",
-      "text": "Resourceful/ Feckless",
+      "text": "Ingenio/Inutilidad",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -458,7 +458,7 @@
     },
     {
       "type": "text",
-      "text": "Resilience/ Listlessness",
+      "text": "Resiliencia/Apatía",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -473,7 +473,7 @@
     },
     {
       "type": "text",
-      "text": "Planned/Unready",
+      "text": "Planificación/Falta de preparación",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -488,7 +488,7 @@
     },
     {
       "type": "text",
-      "text": "Progress/Hindrance",
+      "text": "Progreso/Obstáculo",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -503,7 +503,7 @@
     },
     {
       "type": "text",
-      "text": "Community/ Disagreement",
+      "text": "Comunidad/Desacuerdo",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -518,7 +518,7 @@
     },
     {
       "type": "text",
-      "text": "Cooperation/ Competition",
+      "text": "Cooperación/Competencia",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -533,7 +533,7 @@
     },
     {
       "type": "text",
-      "text": "Conquest/ Subservience",
+      "text": "Conquista/Servidumbre",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -548,7 +548,7 @@
     },
     {
       "type": "text",
-      "text": "Confidence/ Insecurity",
+      "text": "Confianza/Inseguridad",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -563,7 +563,7 @@
     },
     {
       "type": "text",
-      "text": "Further/Curtail",
+      "text": "Impulsar/Restringir",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -578,7 +578,7 @@
     },
     {
       "type": "text",
-      "text": "Invigorate/Enfeeble",
+      "text": "Vigorizar/Debilitar",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",
@@ -593,7 +593,7 @@
     },
     {
       "type": "text",
-      "text": "Accomplish/Burden",
+      "text": "Logro/Carga",
       "weight": 1,
       "drawn": false,
       "img": "icons/svg/d20-black.svg",

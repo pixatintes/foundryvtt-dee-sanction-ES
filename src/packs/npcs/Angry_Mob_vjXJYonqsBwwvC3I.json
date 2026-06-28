@@ -1,5 +1,5 @@
-{
-  "name": "Angry Mob",
+﻿{
+  "name": "Turba enfurecida",
   "type": "enemy",
   "img": "systems/dee/assets/default/tokens/26.png",
   "system": {
@@ -10,7 +10,7 @@
       "first": false,
       "second": false
     },
-    "description": "<p>The mob is a bustling, frantic gathering of enemies. Half the time it&rsquo;s milling around considering whether to run away or not. The rest of the time it&rsquo;s poking with pitchforks, jostling and shoving. Overwhelm means the Mob can cause damage even if the Agents don&rsquo;t miss a beat. An average Agent would struggle to handle a Mob without assistance or good fortune.</p>",
+    "description": "La turba es una multitud bulliciosa y frenética de enemigos. La mitad del tiempo se arremolina, considerando si huir o no. El resto del tiempo pincha con horcas, empuja y zarandea. Abrumar significa que la turba puede causar daño aunque los Agentes no flaqueen. Un Agente medio tendría dificultades para enfrentarse a una turba sin ayuda o buena fortuna.",
     "resources": {
       "armour": {
         "value": 6
@@ -30,19 +30,19 @@
     "hitresolution": {
       "rolltable": {
         "id": "",
-        "name": "Angry Mob Resolution",
+        "name": "Resolución de turba enfurecida",
         "img": "icons/svg/d20-grey.svg",
-        "description": "Angry Mob resolution table"
+        "description": "Tabla de resolución de una turba enfurecida"
       }
     }
   },
   "items": [
     {
-      "name": "Overwhelm",
+      "name": "Abrumar",
       "type": "ability",
       "img": "systems/dee/assets/default/icons/book.png",
       "system": {
-        "description": "<p>The mob consists of 4 x Hits people; it inflicts half its Hits (rnd up) in automatic harm per Moment. Choose random Agents equal to the potential harm and inflict 1 Hit to each.</p>"
+        "description": "La turba consta de 4 × Heridas personas; inflige la mitad de sus Heridas, redondeando hacia arriba, como daño automático por Momento. Elige al azar tantos Agentes como daño potencial e inflige 1 Herida a cada uno."
       },
       "effects": [],
       "_id": "e1YO20zEpc7fv1Hy",
@@ -67,7 +67,7 @@
   ],
   "effects": [],
   "prototypeToken": {
-    "name": "Angry Mob",
+    "name": "Turba enfurecida",
     "disposition": -1,
     "texture": {
       "src": "systems/dee/assets/default/tokens/26.png",

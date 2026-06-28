@@ -1,17 +1,17 @@
-{
+﻿{
   "name": "Liber Salomonis",
   "type": "focus",
   "system": {
-    "description": "<p>Ceremonial traditions incorporating the distilled wisdom of King Solomon, with particular attention to discourse with spiritkind.</p>",
+    "description": "Tradiciones ceremoniales que incorporan la sabiduría destilada del rey Salomón, con especial atención al trato con los espíritus.",
     "abilities": [
       {
-        "name": "Purification",
+        "name": "Purificación",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "uRke5X6Gb1EH0EHS"
       },
       {
-        "name": "Detect Lies",
+        "name": "Detectar mentiras",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "VoZD25hCLjA48VA8"

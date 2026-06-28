@@ -1,5 +1,5 @@
-{
-  "name": "Off-Duty Soldier",
+﻿{
+  "name": "Soldado fuera de servicio",
   "type": "enemy",
   "img": "systems/dee/assets/default/tokens/21.png",
   "system": {
@@ -30,16 +30,16 @@
     "hitresolution": {
       "rolltable": {
         "id": "",
-        "name": "Default Resolution Table",
+        "name": "Tabla de resolución por defecto",
         "img": "icons/svg/d20-grey.svg",
-        "description": "Rolled when an agent falters in a challenge to attack or defend."
+        "description": "Se tira cuando un Agente flaquea en un desafío para atacar o defender."
       }
     }
   },
   "items": [],
   "effects": [],
   "prototypeToken": {
-    "name": "Off-Duty Soldier",
+    "name": "Soldado fuera de servicio",
     "disposition": -1,
     "texture": {
       "src": "systems/dee/assets/default/tokens/21.png",

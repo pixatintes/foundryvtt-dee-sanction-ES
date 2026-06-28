@@ -1,8 +1,8 @@
-{
-  "name": "Bone Toothpick",
+﻿{
+  "name": "Mondadientes de hueso",
   "type": "item",
   "system": {
-    "description": "<p>A bone toothpick.</p>",
+    "description": "Un mondadientes de hueso.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

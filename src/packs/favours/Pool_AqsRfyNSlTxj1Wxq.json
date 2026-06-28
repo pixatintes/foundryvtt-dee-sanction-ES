@@ -1,8 +1,8 @@
-{
-  "name": "Pool",
+﻿{
+  "name": "Charco",
   "type": "favour",
   "system": {
-    "description": "<p>Gather, Coalesce, Slide, Splosh.</p>"
+    "description": "Reunir, coagular, deslizar, chapotear."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

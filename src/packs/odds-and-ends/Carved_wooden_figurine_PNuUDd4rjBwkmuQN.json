@@ -1,8 +1,8 @@
-{
-  "name": "Carved wooden figurine",
+﻿{
+  "name": "Figurilla de madera tallada",
   "type": "item",
   "system": {
-    "description": "<p>A carved wooden figurine.</p>",
+    "description": "Una figurilla de madera tallada.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

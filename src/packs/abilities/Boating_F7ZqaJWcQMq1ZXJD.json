@@ -1,8 +1,8 @@
-{
-  "name": "Boating",
+﻿{
+  "name": "Botes y remos",
   "type": "ability",
   "system": {
-    "description": "<p>Boating.</p>"
+    "description": "<p>Botes y remos.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

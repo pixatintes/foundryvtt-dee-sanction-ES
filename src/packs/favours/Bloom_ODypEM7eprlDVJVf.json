@@ -1,8 +1,8 @@
-{
-  "name": "Bloom",
+﻿{
+  "name": "Florecer",
   "type": "favour",
   "system": {
-    "description": "<p>Revive, Flower, Scent, Thicken.</p>"
+    "description": "Revivir, florear, perfumar, espesar."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

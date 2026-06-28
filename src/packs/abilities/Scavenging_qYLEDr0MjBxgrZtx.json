@@ -1,8 +1,8 @@
-{
-  "name": "Scavenging",
+﻿{
+  "name": "Carroñear",
   "type": "ability",
   "system": {
-    "description": "<p>Scavenging.</p>"
+    "description": "<p>Carroñear.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

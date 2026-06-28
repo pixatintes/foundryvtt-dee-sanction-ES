@@ -1,8 +1,8 @@
-{
-  "name": "Intimidation",
+﻿{
+  "name": "Intimidación",
   "type": "ability",
   "system": {
-    "description": "<p>Intimidation - imposing presence and threat of harm to extract cooperation.</p>"
+    "description": "<p>Intimidación: presencia imponente y amenaza de daño para obtener cooperación.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

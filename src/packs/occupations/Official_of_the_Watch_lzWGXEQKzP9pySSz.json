@@ -1,20 +1,20 @@
-{
-  "name": "Official of the Watch",
+﻿{
+  "name": "Oficial de la guardia",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Thankless volunteer keepers of order tasked with bringing the wretched and the immoral to justice</p>",
+    "description": "Voluntario ingrato encargado de mantener el orden y llevar a miserables e inmorales ante la justicia.",
     "abilities": [
       {
-        "name": "Forgery",
+        "name": "Falsificación",
         "type": "ability"
       },
       {
-        "name": "Gambling",
+        "name": "Juegos de azar",
         "type": "ability"
       },
       {
-        "name": "Apprehend",
+        "name": "Detención",
         "type": "ability"
       }
     ]

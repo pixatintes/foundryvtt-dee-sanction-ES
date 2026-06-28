@@ -1,9 +1,9 @@
-{
-  "name": "Sullen",
+﻿{
+  "name": "Hosco",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "resentful silence, overcast with notes of despondency about any situation.",
+    "description": "Silencio resentido, cubierto de notas de abatimiento ante cualquier situación.",
     "resource": "int",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "7oL7dEQmEegUgGRq",
-      "name": "Sullen",
+      "name": "Hosco",
       "description": "",
       "origin": null,
       "statuses": [],

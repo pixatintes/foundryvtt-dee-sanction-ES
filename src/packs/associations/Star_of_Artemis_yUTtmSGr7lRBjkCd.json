@@ -1,20 +1,20 @@
-{
-  "name": "Star of Artemis",
+﻿{
+  "name": "Estrella de Artemisa",
   "type": "association",
   "img": "systems/dee/assets/default/icons/society.png",
   "system": {
-    "description": "<p>Religion stems from layers of deceit; true faith has been mired in ancient propaganda</p>",
+    "description": "La religión surge de capas de engaño; la fe verdadera ha quedado enfangada en propaganda antigua.",
     "abilities": [
       {
-        "name": "Mythology",
+        "name": "Mitología",
         "type": "ability"
       },
       {
-        "name": "Archaeology",
+        "name": "Arqueología",
         "type": "ability"
       },
       {
-        "name": "Flattery",
+        "name": "Adulación",
         "type": "ability"
       }
     ]

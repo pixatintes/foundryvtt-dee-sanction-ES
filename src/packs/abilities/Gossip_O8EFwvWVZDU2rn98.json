@@ -1,8 +1,8 @@
-{
-  "name": "Gossip",
+﻿{
+  "name": "Chisme",
   "type": "ability",
   "system": {
-    "description": "<p>Gossip.</p>"
+    "description": "<p>Chisme.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

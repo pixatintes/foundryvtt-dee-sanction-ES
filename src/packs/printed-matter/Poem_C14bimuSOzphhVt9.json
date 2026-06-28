@@ -1,8 +1,8 @@
-{
-  "name": "Poem",
+﻿{
+  "name": "Poema",
   "type": "item",
   "system": {
-    "description": "<p>A love ballad by a little known poet.</p>",
+    "description": "Una balada de amor de un poeta poco conocido.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

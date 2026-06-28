@@ -1,9 +1,9 @@
-{
-  "name": "Foolish",
+﻿{
+  "name": "Temerario",
   "type": "consequence",
   "img": "systems/dee/assets/default/icons/bones.png",
   "system": {
-    "description": "recklessly courageous and bold, heedless of the potency or peril of a challenge.",
+    "description": "Valiente y audaz de forma imprudente, indiferente a la potencia o peligro de un desafío.",
     "resource": "int",
     "potency": -1
   },
@@ -29,7 +29,7 @@
       },
       "transfer": true,
       "_id": "hLUJ3wtMp5H017DX",
-      "name": "Foolish",
+      "name": "Temerario",
       "description": "",
       "origin": null,
       "statuses": [],

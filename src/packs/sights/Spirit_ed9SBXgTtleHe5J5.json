@@ -1,8 +1,8 @@
-{
-  "name": "Spirit",
+﻿{
+  "name": "Espíritu",
   "type": "favour",
   "system": {
-    "description": "<h2>Aura Reading</h2><p>Spirit.</p>"
+    "description": "\n\n### Lectura de aura\n  \nEspíritu.\n"
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

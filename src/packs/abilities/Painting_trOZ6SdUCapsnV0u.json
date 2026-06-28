@@ -1,8 +1,8 @@
-{
-  "name": "Painting",
+﻿{
+  "name": "Pintar",
   "type": "ability",
   "system": {
-    "description": "<p>Painting.</p>"
+    "description": "<p>Pintar.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

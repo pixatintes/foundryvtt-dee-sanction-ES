@@ -1,8 +1,8 @@
-{
-  "name": "Shovel",
+﻿{
+  "name": "Pala",
   "type": "item",
   "system": {
-    "description": "<p>A sturdy shovel.</p>",
+    "description": "Una pala resistente.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

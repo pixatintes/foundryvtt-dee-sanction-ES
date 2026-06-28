@@ -1,8 +1,8 @@
-{
-  "name": "Bone Comb",
+﻿{
+  "name": "Peine de hueso",
   "type": "item",
   "system": {
-    "description": "<p>A bone comb.</p>",
+    "description": "Un peine de hueso.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false

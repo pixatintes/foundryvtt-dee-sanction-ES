@@ -1,8 +1,8 @@
-{
-  "name": "Deception",
+﻿{
+  "name": "Engaño",
   "type": "ability",
   "system": {
-    "description": "<p>Deception.</p>"
+    "description": "<p>Engaño.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

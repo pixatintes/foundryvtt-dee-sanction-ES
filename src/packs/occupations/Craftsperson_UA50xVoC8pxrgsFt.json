@@ -1,20 +1,20 @@
-{
-  "name": "Craftsperson",
+﻿{
+  "name": "Artesano",
   "type": "occupation",
   "img": "systems/dee/assets/default/icons/shilling.png",
   "system": {
-    "description": "<p>Apprenticed specialist disciplined in the adept working of raw materials into products of saleable value</p>",
+    "description": "Especialista aprendiz, disciplinado en el trabajo experto de materias primas para convertirlas en productos de valor vendible.",
     "abilities": [
       {
-        "name": "Barter",
+        "name": "Trueque",
         "type": "ability"
       },
       {
-        "name": "Materials",
+        "name": "Materiales",
         "type": "ability"
       },
       {
-        "name": "Reworking",
+        "name": "Restauración",
         "type": "ability"
       }
     ]

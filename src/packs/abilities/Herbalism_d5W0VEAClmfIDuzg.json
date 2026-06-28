@@ -1,8 +1,8 @@
-{
-  "name": "Herbalism",
+﻿{
+  "name": "Herboristería",
   "type": "ability",
   "system": {
-    "description": "<p>Herbalism.</p>"
+    "description": "<p>Herboristería.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

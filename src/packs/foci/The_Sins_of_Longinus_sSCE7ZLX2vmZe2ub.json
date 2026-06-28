@@ -1,17 +1,17 @@
-{
-  "name": "The Sins of Longinus",
+﻿{
+  "name": "Los pecados de Longino",
   "type": "focus",
   "system": {
-    "description": "<p>Discourse on the medieval legend around the final days of the Christ</p>",
+    "description": "Discurso sobre la leyenda medieval en torno a los últimos días de Cristo.",
     "abilities": [
       {
-        "name": "Blacksmithery",
+        "name": "Herrería",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "Jr2WvtD7SziA85yp"
       },
       {
-        "name": "Theology",
+        "name": "Teología",
         "type": "ability",
         "img": "systems/dee/assets/default/icons/book.png",
         "id": "3NmWqxH3UsyGURu9"

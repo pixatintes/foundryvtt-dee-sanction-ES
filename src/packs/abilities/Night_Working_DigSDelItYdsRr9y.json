@@ -1,8 +1,8 @@
-{
-  "name": "Night Working",
+﻿{
+  "name": "Trabajo nocturno",
   "type": "ability",
   "system": {
-    "description": "<p>Night Working.</p>"
+    "description": "<p>Trabajo nocturno.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

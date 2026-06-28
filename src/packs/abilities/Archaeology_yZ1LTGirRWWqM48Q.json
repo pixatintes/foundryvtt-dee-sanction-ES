@@ -1,8 +1,8 @@
-{
-  "name": "Archaeology",
+﻿{
+  "name": "Arqueología",
   "type": "ability",
   "system": {
-    "description": "<p>Archaeology- power is all about lost treasure & shallow graves</p>"
+    "description": "<p>Arqueología: el poder gira en torno a tesoros perdidos y tumbas poco profundas.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

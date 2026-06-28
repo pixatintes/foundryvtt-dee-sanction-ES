@@ -1,8 +1,8 @@
-{
-  "name": "Prepared",
+﻿{
+  "name": "Preparado",
   "type": "ability",
   "system": {
-    "description": "<p>Prepared - the good sense to have packed well; small things when needed most.</p>"
+    "description": "<p>Preparado: el buen juicio de haber hecho bien el equipaje; pequeñas cosas cuando más se necesitan.</p>"
   },
   "img": "systems/dee/assets/default/icons/book.png",
   "folder": null,

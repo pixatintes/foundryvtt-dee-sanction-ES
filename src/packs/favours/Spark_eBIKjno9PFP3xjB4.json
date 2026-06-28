@@ -1,8 +1,8 @@
-{
-  "name": "Spark",
+﻿{
+  "name": "Chispa",
   "type": "favour",
   "system": {
-    "description": "<p>Flash, Sudden, Spit, Stab, Pinpoint.</p>"
+    "description": "Destello, súbito, chisporroteo, punzada, punto preciso."
   },
   "img": "systems/dee/assets/default/icons/magic.png",
   "folder": null,

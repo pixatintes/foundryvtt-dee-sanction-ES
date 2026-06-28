@@ -1,9 +1,9 @@
-{
-  "name": "Cuirass",
+﻿{
+  "name": "Coraza",
   "type": "item",
   "img": "systems/dee/assets/default/icons/kit.png",
   "system": {
-    "description": "A sturdy breastplate.",
+    "description": "Una coraza resistente.",
     "quantity": 1,
     "weight": 0,
     "esoteric": false,
@@ -30,7 +30,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "name": "Cuirass",
+      "name": "Coraza",
       "transfer": true,
       "_id": "W8X3G86jFdr5eq3k",
       "description": "",
