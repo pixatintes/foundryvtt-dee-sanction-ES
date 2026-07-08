@@ -7,7 +7,7 @@ This is an unofficial, fan-made implementation of The Dee Sanction RPG, copyrigh
 Full documentation is available [here](https://chrisesharp.github.io/foundryvtt-dee-sanction/)
 
 To install in Foundry VTT, provide this manifest URL:
-https://raw.githubusercontent.com/chrisesharp/foundryvtt-dee-sanction/master/src/system.json
+[https://raw.githubusercontent.com/pixatintes/foundryvtt-dee-sanction/master/src/system.json](https://raw.githubusercontent.com/pixatintes/foundryvtt-dee-sanction-ES/refs/heads/master/src/system.json)
 
 ## Acknowledgements
 
