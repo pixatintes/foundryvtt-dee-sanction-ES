@@ -3,62 +3,62 @@ import { Logger } from "./logger.js";
 const log = new Logger();
 
 const mannerisms = {
-    "Phlegm": [
-        "Easy going attitude",
-        "Quietly stubborn",
-        "Doesn't want to be any trouble",
-        "Avoid conflict",
-        "Open to all the options",
-        "Passive listener (I am listening!)",
-        "Can't we all just get along?",
-        "Unevenly apportions work",
-        "Watches others",
-        "Avoids making decisions",
-        "Always looking for the exits",
-        "Easily amused"
-    ],
-    "Black Bile": [
-        "Reserved",
-        "Generally looks sad or upset",
-        "It's safer not to go alone",
-        "Schedule orientated",
-        "Hears negatives",
-        "Avoids criticism",
-        "Incredibly organised",
-        "Difficult to please",
-        "Suspicious",
-        "Always with a flourish",
-        "It's always better to music",
-        "Thrifty"
-    ],
-    "Yellow Bile": [
-        "Eager to find out more",
-        "Unreasonably ambitious",
-        "Insistent (go on, go on…)",
-        "Trustworthy",
-        "Louder is better",
-        "Always prepared",
-        "Knows everything",
-        "Unrepentent",
-        "Self-sufficient (but not prepared)",
-        "Not tired (but tired)",
-        "Throws things, just to cope",
-        "Unnecessarily competitive"
-    ],
-    "Blood": [
-        "Disorganised",
-        "Short attention span",
-        "Wealthy in my friends",
-        "Sudden emotional pendulum",
-        "Credit where credit's due",
-        "Wants to please",
-        "Unintentionally forgetful",
-        "Open to being led astray",
-        "Generally full of cheer",
-        "Have gossip, will gossip",
-        "Mildly immature",
-        "Always tries to bounce back"
-    ]
+	"Flemático": [
+		"Actitud tranquila y despreocupada",
+		"Obstinadamente terco en silencio",
+		"No quiere causar problemas",
+		"Evita los conflictos",
+		"Abierto a todas las opciones",
+		"Oyente pasivo (¡estoy escuchando!)",
+		"¿No podemos llevarnos todos bien?",
+		"Reparte el trabajo de forma desigual",
+		"Observa a los demás",
+		"Evita tomar decisiones",
+		"Siempre busca las salidas",
+		"Se divierte con facilidad"
+	],
+	"Melancólico": [
+		"Reservado",
+		"Generalmente parece triste o molesto",
+		"Es más seguro no ir solo",
+		"Orientado a los horarios y la planificación",
+		"Percibe lo negativo",
+		"Evita las críticas",
+		"Increíblemente organizado",
+		"Difícil de complacer",
+		"Desconfiado",
+		"Siempre con un toque teatral",
+		"Siempre es mejor con música",
+		"Ahorrador"
+	],
+	"Colérico": [
+		"Deseoso de descubrir más",
+		"Ambicioso hasta lo irracional",
+		"Insistente (vamos, sigue, sigue...)",
+		"Digno de confianza",
+		"Cuanto más fuerte, mejor",
+		"Siempre preparado",
+		"Lo sabe todo",
+		"Sin arrepentimiento",
+		"Autosuficiente (pero no preparado)",
+		"No está cansado (pero sí lo está)",
+		"Lanza cosas solo para sobrellevar la situación",
+		"Competitivo sin necesidad"
+	],
+	"Sanguíneo": [
+		"Desorganizado",
+		"Poca capacidad de atención",
+		"Rico en amistades",
+		"Cambios emocionales repentinos",
+		"Da el mérito a quien corresponde",
+		"Quiere complacer a los demás",
+		"Olvidadizo sin intención",
+		"Abierto a dejarse llevar por el mal camino",
+		"Generalmente lleno de alegría",
+		"Tengo chismes y los cuento",
+		"Ligeramente inmaduro",
+		"Siempre intenta recuperarse"
+	]
 }
 
 const homes = [
@@ -314,7 +314,7 @@ export function generator(type) {
 export async function randomPossessions(actor, html) {
     const checks = html.currentTarget.querySelectorAll('input[name="possessions"]:checked');
     if (checks.length > 3) {
-        ui.notifications.warn("You must choose three or less!");
+        ui.notifications.warn("¡Debes elegir tres como máximo!");
         return false;
     }
     const types = [];
