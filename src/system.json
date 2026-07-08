@@ -172,6 +172,6 @@
   "primaryTokenAttribute": "hits",
   "url": "https://github.com/pixatintes/foundryvtt-dee-sanction-ES",
   "manifest": "https://raw.githubusercontent.com/pixatintes/foundryvtt-dee-sanction-ES/refs/heads/master/src/system.json",
-  "download": "https://raw.githubusercontent.com/pixatintes/foundryvtt-dee-sanction-ES/refs/heads/master/package/dee-v6.0.1.zip",
+  "download": "https://raw.githubusercontent.com/pixatintes/foundryvtt-dee-sanction-ES/refs/heads/master/package/dee-v6.0.1-es.zip",
   "license": "LICENSE.txt"
 }
