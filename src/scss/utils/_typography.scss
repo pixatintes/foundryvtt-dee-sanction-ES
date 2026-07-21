@@ -14,7 +14,8 @@ $font-secondary: 'IM Fell English', serif;
   & h3,
   & h4 {
     font-family: $font-primary;
-    font-style: italic;
+    font-style: normal;
+    font-size: 16px;
     // font-size: revert;
     color: $c-black;
     text-shadow: none;
